@@ -1,0 +1,29 @@
+{
+  "name": "@aitareko/cra-template-recoil",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "tailwind",
+    "tailwindcss",
+    "recoil"
+  ],
+  "description": "The base TypeScript template for Create React App with added TailwindCSS and Recoil.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aitareko/cra-template-recoil.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/aitareko/cra-template-recoil/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
